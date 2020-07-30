@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7621f9d8-819e-4344-8189-bf6df7d54ba0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ReadMyFileForSingleCpG.java" afterDir="false" />
+    <list default="true" id="7621f9d8-819e-4344-8189-bf6df7d54ba0" name="Default Changelist" comment="Update on single CpG level">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReadMyFileForGene.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadMyFileForGene.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +77,14 @@
       <option name="presentableId" value="Default" />
       <updated>1594811522207</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update on single CpG level">
+      <created>1596103479435</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596103479435</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +97,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update on single CpG level" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update on single CpG level" />
   </component>
   <component name="WindowStateProjectService">
     <state x="472" y="130" key="#Project_Structure" timestamp="1594811615225">
@@ -124,5 +135,9 @@
       <screen x="51" y="24" width="1869" height="1056" />
     </state>
     <state x="472" y="116" key="SettingsEditor/51.24.1869.1056@51.24.1869.1056" timestamp="1596095429482" />
+    <state x="584" y="275" key="Vcs.Push.Dialog.v2" timestamp="1596103499575">
+      <screen x="51" y="24" width="1869" height="1056" />
+    </state>
+    <state x="584" y="275" key="Vcs.Push.Dialog.v2/51.24.1869.1056@51.24.1869.1056" timestamp="1596103499575" />
   </component>
 </project>
